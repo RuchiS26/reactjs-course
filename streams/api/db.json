@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Great Stream",
+      "id": 1
+    },
+    {
+      "title": "Witcher3",
+      "description": "Made by Me!!!",
+      "id": 2
+    },
+    {
+      "title": "Tomb Raider",
+      "description": "Adventurous Game",
+      "userId": "113865100600221571807",
+      "id": 3
+    }
+  ]
+}
